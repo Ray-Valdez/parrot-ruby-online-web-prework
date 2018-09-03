@@ -3,5 +3,3 @@
 def parrot(says = "Squawk!")
   says
 end
-
-return parrot("Pretty Bird!")
